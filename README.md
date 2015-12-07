@@ -1,7 +1,5 @@
 # Android Camera Bitmap Access without OpenCV 
 
-androidcamerabitmapaccess-melvincabatuan created by Classroom for GitHub
-
 This project illustrates the simple access of Android's Native Camera Bitmap utilizing the Java Native Interface (JNI).
 
 ## Prerequisite:
@@ -131,38 +129,3 @@ JNIEXPORT void JNICALL Java_io_github_melvincabatuan_nativebitmap_MainActivity_d
 
 }
 ```
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/55cc29306b5cfe42e09a8979f0110e91
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-
-## Screenshots:
-
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-melvincabatuan/blob/master/device-2015-11-06-074737.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-melvincabatuan/blob/master/device-2015-11-06-074817.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-melvincabatuan/blob/master/device-2015-11-06-074834.png)
-
-"*We only think when we are confronted with problems.*" - John Dewey
